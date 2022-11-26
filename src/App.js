@@ -4,7 +4,7 @@ import { Provider } from 'react-redux';
 import Greeting from './component/greeting';
 import store from './redux/store';
 
-const App = () => {
+function App() {
   return (
     <Provider store={store}>
       <>
