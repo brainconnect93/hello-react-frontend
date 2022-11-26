@@ -1,24 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Table of Contents
 
-# hello-react-frontend
+* [About the Project](#hello-react-frontend)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [Contributing](#🤝-contributing)
+* [Author](#author)
 
-> This is a project to learn how to use React with Rails by Implementing a connection between a Ruby on Rails back-end and React front-end.
 
-## Overview
+#  hello-react-frontend
+This is a project to learn how to use React with Rails by Implementing a connection between a Ruby on Rails back-end and React front-end.
 
 ## Built With
-
 - React
 - Webpack
+- Redux
 
 ## Getting Started
 
-### Clone this repository
+### Prerequisite
+Go ahead and check the most recent version of each of these:
+- React
+- Node.js (node --version)
+- Npm
+- Redux
 
-```bash
-$ git clone git@github.com:brainconnect93/hello-react-frontend.git
-$ cd hello-react-frontend
-```
+### Clone this repository
+git clone git@github.com:brainconnect93/hello-react-frontend.git
 
 ### Run project
 
@@ -44,6 +51,7 @@ $ http://localhost:3000/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+
 Feel free to check the [issues page](https://github.com/brainconnect93/hello-react-frontend/issues)
 
 ## Show your support
@@ -57,4 +65,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](C:\Users\Administrator\Desktop\Hello-rails-react\LICENSE) licensed.
+This project is [MIT](C:\Users\Administrator\Desktop\hello-react-frontend\LICENSE) licensed.
